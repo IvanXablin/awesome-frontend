@@ -1,6 +1,5 @@
 # Список различных источников для изучения программирования
 
---YouTube
 
 - [Ulbi TV](https://www.youtube.com/c/UlbiTV) - канал, где вы можете изучить основы frontend и backend разработки
 - [RED Group](https://www.youtube.com/c/REDGroup/) - канал с различными курсами веб-технологиям, также присутсвуют онлайн марафоны по разработке клонов VK, YouTube
