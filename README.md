@@ -18,10 +18,15 @@
 
 ## Вопросы для собеседований
 - [Vue questions](https://www.youtube.com/watch?v=umHjpWydn8I&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=19) - вопросы для собеседования на Vue разработчика
-- [React questions](https://youtu.be/-cZOdWjFwXw)
+- [React questions](https://youtu.be/-cZOdWjFwXw) - вопросы для собеседования на React разработчика
 ## Инструменты разработки
 - [Sublime](https://www.youtube.com/watch?v=xWhTf_o86Lg&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=7) - настройка Sublime Text 3
 - [Prepros](https://www.youtube.com/watch?v=BqO5Pj26om8&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=9) - что такое prepros, его настройке
+
+## Сайты по WEB разработке
+- [Metanit](https://metanit.com/web/) - здесь есть очень большой раздел по WEB разработке, материалы часто обновляются
+- [Htmlbook](http://htmlbook.ru/) - сайт со шпаргалками по HTML, CSS
+- [JavaScript.ru](https://learn.javascript.ru/) - учебник по основам JavaScript
 
 ## Документация
 - [React js](https://ru.reactjs.org/)
