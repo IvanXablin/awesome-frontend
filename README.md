@@ -18,7 +18,7 @@
 
 ## Вопросы для собеседований
 - [Vue questions](https://www.youtube.com/watch?v=umHjpWydn8I&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=19) - вопросы для собеседования на Vue разработчика
-
+- [React questions](https://youtu.be/-cZOdWjFwXw)
 ## Инструменты разработки
 - [Sublime](https://www.youtube.com/watch?v=xWhTf_o86Lg&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=7) - настройка Sublime Text 3
 - [Prepros](https://www.youtube.com/watch?v=BqO5Pj26om8&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=9) - что такое prepros, его настройке
