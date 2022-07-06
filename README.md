@@ -7,3 +7,5 @@
 - [webDev](https://www.youtube.com/c/YauhenKavalchuk/featured) webDev - образовательный канал о веб-разработке. Здесь вы найдёте курсы по: HTML, CSS, JavaScript, React
 - [Курс по frontend разработке](https://www.youtube.com/playlist?list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr) - плейлист, благодаря которому вы получите базовые знания по frontend разработке
 - [Курс по Vue](https://www.youtube.com/playlist?list=PLvTBThJr861yMBhpKafII3HZLAYujuNWw), [и ещё курс по Vue](https://www.youtube.com/playlist?list=PL-wEcSTifrSn5cae0gFQ7Gy7v3t6c7hLF) - неплохие курсы по фреймворку Vue js
+- [Webpack](https://www.youtube.com/watch?v=eSaF8NXeNsA&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=2) - трехчасовой подробный курс по Webpack
+- [Vue questions](https://www.youtube.com/watch?v=umHjpWydn8I&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=19) - вопросы для собеседования на Vue разработчика
