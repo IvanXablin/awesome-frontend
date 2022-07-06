@@ -22,3 +22,13 @@
 ## Инструменты разработки
 - [Sublime](https://www.youtube.com/watch?v=xWhTf_o86Lg&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=7) - настройка Sublime Text 3
 - [Prepros](https://www.youtube.com/watch?v=BqO5Pj26om8&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=9) - что такое prepros, его настройке
+
+## Документация
+- [React js](https://ru.reactjs.org/)
+- [Vue js](https://vuejs.org/guide/introduction.html)
+- [Nuxt 3](https://v3.nuxtjs.org/getting-started/quick-start/)
+- [Fastify js](https://www.fastify.io/)
+- [Element-Plus](https://element-plus.org/en-US/)
+- [Webpack](https://webpack.js.org/)
+- [ESLint](https://eslint.org/docs/latest/)
+- [NPM](https://docs.npmjs.com/)
