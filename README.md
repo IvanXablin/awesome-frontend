@@ -6,6 +6,7 @@
 - [Курс по React](https://www.youtube.com/watch?v=GNrdg3PzpJQ&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=18) - курс по фреймворку React js
 - [Курс по Vue](https://www.youtube.com/playlist?list=PLvTBThJr861yMBhpKafII3HZLAYujuNWw), [и ещё курс по Vue](https://www.youtube.com/playlist?list=PL-wEcSTifrSn5cae0gFQ7Gy7v3t6c7hLF) - неплохие курсы по фреймворку Vue js
 - [Webpack](https://www.youtube.com/watch?v=eSaF8NXeNsA&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=2) - трехчасовой подробный курс по Webpack, создание сборки
+- [ESBuild](https://www.youtube.com/watch?v=9wFfq5bLCgg&list=PLAlchIBzgBm-cLmbmeDHaXgtG-wGCv4l4&index=2) - часовой курс по ESBuild
 - [Gulp](https://www.youtube.com/watch?v=jU88mLuLWlk&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=8) - курс по настройке Gulp, создание сборки
  - [Node js](https://www.youtube.com/watch?v=3aGSqasVPsI&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=29) - быстрый часовой курс по Node js
  - [Docker](https://www.youtube.com/watch?v=n9uCgUzfeRQ&list=PLAlchIBzgBm-cLmbmeDHaXgtG-wGCv4l4&index=18), [ещё Docker](https://www.youtube.com/watch?v=QF4ZF857m44&list=PLAlchIBzgBm-cLmbmeDHaXgtG-wGCv4l4&index=23) - курсы по Docker
