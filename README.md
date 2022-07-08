@@ -8,6 +8,7 @@
 - [Webpack](https://www.youtube.com/watch?v=eSaF8NXeNsA&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=2) - трехчасовой подробный курс по Webpack, создание сборки
 - [Gulp](https://www.youtube.com/watch?v=jU88mLuLWlk&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=8) - курс по настройке Gulp, создание сборки
  - [Node js](https://www.youtube.com/watch?v=3aGSqasVPsI&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=29) - быстрый часовой курс по Node js
+ - [Docker](https://www.youtube.com/watch?v=n9uCgUzfeRQ&list=PLAlchIBzgBm-cLmbmeDHaXgtG-wGCv4l4&index=18), [ещё Docker](https://www.youtube.com/watch?v=QF4ZF857m44&list=PLAlchIBzgBm-cLmbmeDHaXgtG-wGCv4l4&index=23) - курсы по Docker
 
 ## Каналы по WEB разработке
 - [RED Group](https://www.youtube.com/c/REDGroup/) - канал с различными курсами веб-технологиям, также присутсвуют онлайн марафоны по разработке клонов VK, YouTube
