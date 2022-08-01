@@ -30,6 +30,7 @@
 - [Htmlbook](http://htmlbook.ru/) - сайт со шпаргалками по HTML, CSS
 - [JavaScript.ru](https://learn.javascript.ru/) - учебник по основам JavaScript
 
+
 ## Документация
 - [DevDocs](https://devdocs.io/)
 - [React js](https://ru.reactjs.org/)
@@ -40,3 +41,5 @@
 - [Webpack](https://webpack.js.org/)
 - [ESLint](https://eslint.org/docs/latest/)
 - [NPM](https://docs.npmjs.com/)
+- [Tailwind CSS](https://tailwindui.com/documentation)
+- [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
