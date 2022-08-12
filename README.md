@@ -14,6 +14,7 @@
  - [Docker](https://www.youtube.com/watch?v=n9uCgUzfeRQ&list=PLAlchIBzgBm-cLmbmeDHaXgtG-wGCv4l4&index=18), [ещё Docker](https://www.youtube.com/watch?v=QF4ZF857m44&list=PLAlchIBzgBm-cLmbmeDHaXgtG-wGCv4l4&index=23) - курсы по Docker
 
 ## Каналы по WEB разработке
+- [WebDev](https://www.youtube.com/c/YauhenKavalchuk) - канал с полезными роликами по front-end
 - [RED Group](https://www.youtube.com/c/REDGroup/) - канал с различными курсами веб-технологиям, также присутсвуют онлайн марафоны по разработке клонов VK, YouTube
 - [Ulbi TV](https://www.youtube.com/c/UlbiTV) - канал, где вы можете изучить основы frontend и backend разработки
 - [Давай Попробуем: JavaScript](https://www.youtube.com/channel/UCZ9Wq5uBtG3zDrNx0ztXhDQ) канал по javascript и разработке заказов с фриланса
@@ -21,6 +22,7 @@
 - [Эмоциональный робот](https://www.youtube.com/channel/UCGhWsgwqpA_HH1R9j-B04dw/featured) - на этом канале можно найти видео с простым объяснением таких технологий, как Webpack, ESLint, NPM, Git и т.д.
 
 ## Вопросы для собеседований
+- [WebDev](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFSLI9wBuHxuGI5lAZ7QNUg) - вопросы для собеседования для Junior/Middle Front-End
 - [Vue questions](https://www.youtube.com/watch?v=umHjpWydn8I&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=19) - вопросы для собеседования на Vue разработчика
 - [React questions](https://youtu.be/-cZOdWjFwXw) - вопросы для собеседования на React разработчика
 ## Инструменты разработки
@@ -33,7 +35,9 @@
 - [Htmlbook](http://htmlbook.ru/) - сайт со шпаргалками по HTML, CSS
 - [JavaScript.ru](https://learn.javascript.ru/) - учебник по основам JavaScript
 
+
 ## Документация
+- [DevDocs](https://devdocs.io/)
 - [React js](https://ru.reactjs.org/)
 - [Vue js](https://vuejs.org/guide/introduction.html)
 - [Nuxt 3](https://v3.nuxtjs.org/getting-started/quick-start/)
@@ -42,3 +46,5 @@
 - [Webpack](https://webpack.js.org/)
 - [ESLint](https://eslint.org/docs/latest/)
 - [NPM](https://docs.npmjs.com/)
+- [Tailwind CSS](https://tailwindui.com/documentation)
+- [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
