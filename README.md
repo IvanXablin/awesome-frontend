@@ -2,12 +2,16 @@
 
 
 ## Курсы по WEB разработке
+- [6-ти часовой курс по JS](https://www.youtube.com/watch?v=Bluxbh9CaQ0&list=PLAlchIBzgBm-cLmbmeDHaXgtG-wGCv4l4&index=1)
+- [Нововведения ES6](https://www.youtube.com/watch?v=Ti2Q4sQkNdU&list=PLAlchIBzgBm-cLmbmeDHaXgtG-wGCv4l4&index=3)
 - [Курс по frontend разработке](https://www.youtube.com/playlist?list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr) - плейлист, благодаря которому вы получите базовые знания по frontend разработке
 - [Курс по React](https://www.youtube.com/watch?v=GNrdg3PzpJQ&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=18) - курс по фреймворку React js
 - [Курс по Vue](https://www.youtube.com/playlist?list=PLvTBThJr861yMBhpKafII3HZLAYujuNWw), [и ещё курс по Vue](https://www.youtube.com/playlist?list=PL-wEcSTifrSn5cae0gFQ7Gy7v3t6c7hLF) - неплохие курсы по фреймворку Vue js
 - [Webpack](https://www.youtube.com/watch?v=eSaF8NXeNsA&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=2) - трехчасовой подробный курс по Webpack, создание сборки
+- [ESBuild](https://www.youtube.com/watch?v=9wFfq5bLCgg&list=PLAlchIBzgBm-cLmbmeDHaXgtG-wGCv4l4&index=2) - часовой курс по ESBuild
 - [Gulp](https://www.youtube.com/watch?v=jU88mLuLWlk&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=8) - курс по настройке Gulp, создание сборки
  - [Node js](https://www.youtube.com/watch?v=3aGSqasVPsI&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=29) - быстрый часовой курс по Node js
+ - [Docker](https://www.youtube.com/watch?v=n9uCgUzfeRQ&list=PLAlchIBzgBm-cLmbmeDHaXgtG-wGCv4l4&index=18), [ещё Docker](https://www.youtube.com/watch?v=QF4ZF857m44&list=PLAlchIBzgBm-cLmbmeDHaXgtG-wGCv4l4&index=23) - курсы по Docker
 
 ## Каналы по WEB разработке
 - [RED Group](https://www.youtube.com/c/REDGroup/) - канал с различными курсами веб-технологиям, также присутсвуют онлайн марафоны по разработке клонов VK, YouTube
@@ -22,6 +26,7 @@
 ## Инструменты разработки
 - [Sublime](https://www.youtube.com/watch?v=xWhTf_o86Lg&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=7) - настройка Sublime Text 3
 - [Prepros](https://www.youtube.com/watch?v=BqO5Pj26om8&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=9) - что такое prepros, его настройке
+- [Базовый курс по GIT](https://www.youtube.com/watch?v=SEvR78OhGtw)
 
 ## Сайты по WEB разработке
 - [Metanit](https://metanit.com/web/) - здесь есть очень большой раздел по WEB разработке, материалы часто обновляются
