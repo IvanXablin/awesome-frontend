@@ -18,7 +18,6 @@
 - [RED Group](https://www.youtube.com/c/REDGroup/) - канал с различными курсами веб-технологиям, также присутсвуют онлайн марафоны по разработке клонов VK, YouTube
 - [Ulbi TV](https://www.youtube.com/c/UlbiTV) - канал, где вы можете изучить основы frontend и backend разработки
 - [Давай Попробуем: JavaScript](https://www.youtube.com/channel/UCZ9Wq5uBtG3zDrNx0ztXhDQ) канал по javascript и разработке заказов с фриланса
-- [webDev](https://www.youtube.com/c/YauhenKavalchuk/featured) webDev - образовательный канал о веб-разработке. Здесь вы найдёте курсы по: HTML, CSS, JavaScript, React\\
 - [Эмоциональный робот](https://www.youtube.com/channel/UCGhWsgwqpA_HH1R9j-B04dw/featured) - на этом канале можно найти видео с простым объяснением таких технологий, как Webpack, ESLint, NPM, Git и т.д.
 
 ## Вопросы для собеседований
