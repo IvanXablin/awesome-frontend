@@ -28,6 +28,7 @@
 - [Sublime](https://www.youtube.com/watch?v=xWhTf_o86Lg&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=7) - настройка Sublime Text 3
 - [Prepros](https://www.youtube.com/watch?v=BqO5Pj26om8&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=9) - что такое prepros, его настройке
 - [Базовый курс по GIT](https://www.youtube.com/watch?v=SEvR78OhGtw)
+- [Подготовка окружения React-приложения: VSCode, Prettier, ESLint, Stylelint, Husky](https://tproger.ru/articles/podgotovka-okruzhenija-react-prilozhenija-vscode-prettier-eslint-stylelint-husky/)
 
 ## Сайты по WEB разработке
 - [Metanit](https://metanit.com/web/) - здесь есть очень большой раздел по WEB разработке, материалы часто обновляются
