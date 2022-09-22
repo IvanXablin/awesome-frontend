@@ -1,9 +1,12 @@
-# Список различных источников для изучения программирования
+# Список различных источников для изучения Frontend - разработки
+
+## Темы:
+
+- ### [JavaScript](./JS/JS.md)
+- ### [React.js](./React/React.md)
 
 
 ## Курсы по WEB разработке
-- [6-ти часовой курс по JS](https://www.youtube.com/watch?v=Bluxbh9CaQ0&list=PLAlchIBzgBm-cLmbmeDHaXgtG-wGCv4l4&index=1)
-- [Нововведения ES6](https://www.youtube.com/watch?v=Ti2Q4sQkNdU&list=PLAlchIBzgBm-cLmbmeDHaXgtG-wGCv4l4&index=3)
 - [Курс по frontend разработке](https://www.youtube.com/playlist?list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr) - плейлист, благодаря которому вы получите базовые знания по frontend разработке
 - [Курс по React](https://www.youtube.com/watch?v=GNrdg3PzpJQ&list=PLAlchIBzgBm_HwfcoGGAVcBpzDlKmp23Q&index=18) - курс по фреймворку React js
 - [Курс по Vue](https://www.youtube.com/playlist?list=PLvTBThJr861yMBhpKafII3HZLAYujuNWw), [и ещё курс по Vue](https://www.youtube.com/playlist?list=PL-wEcSTifrSn5cae0gFQ7Gy7v3t6c7hLF) - неплохие курсы по фреймворку Vue js
